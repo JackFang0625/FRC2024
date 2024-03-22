@@ -1,0 +1,52 @@
+{
+  "version": 1.0,
+  "waypoints": [
+    {
+      "anchor": {
+        "x": 8.281950694955519,
+        "y": 2.3973016607001876
+      },
+      "prevControl": null,
+      "nextControl": {
+        "x": 6.808487235208089,
+        "y": -0.011694154442438405
+      },
+      "isLocked": false,
+      "linkedName": null
+    },
+    {
+      "anchor": {
+        "x": 1.896942369383314,
+        "y": 3.6953528038110206
+      },
+      "prevControl": {
+        "x": 1.861859906055994,
+        "y": 1.5787108497293916
+      },
+      "nextControl": null,
+      "isLocked": false,
+      "linkedName": null
+    }
+  ],
+  "rotationTargets": [],
+  "constraintZones": [],
+  "eventMarkers": [],
+  "globalConstraints": {
+    "maxVelocity": 6.0,
+    "maxAcceleration": 6.0,
+    "maxAngularVelocity": 540.0,
+    "maxAngularAcceleration": 720.0
+  },
+  "goalEndState": {
+    "velocity": 0,
+    "rotation": 136.93783976544114,
+    "rotateFast": true
+  },
+  "reversed": false,
+  "folder": "PSW-R5NL-R4NL (SSA)",
+  "previewStartingState": {
+    "rotation": 179.49297093908518,
+    "velocity": 0
+  },
+  "useDefaultConstraints": true
+}

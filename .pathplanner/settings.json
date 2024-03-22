@@ -1,0 +1,27 @@
+{
+  "robotWidth": 0.88,
+  "robotLength": 0.96,
+  "holonomicMode": true,
+  "pathFolders": [
+    "(Rush)",
+    "MA Help",
+    "Zero Vision",
+    "PID",
+    "PSW-R2NL-M1WL-M2NL-R1NL (AS)",
+    "PSW-R2SW-R3SW-R1SW (Mid)",
+    "PSW-R2SW-R3SW-R1SW-M3NL (Mid)",
+    "PSW-R5NL-R4NL (SSA)",
+    "Steal"
+  ],
+  "autoFolders": [
+    "Advantage Autos",
+    "Backup",
+    "PID",
+    "Week3"
+  ],
+  "defaultMaxVel": 6.0,
+  "defaultMaxAccel": 6.0,
+  "defaultMaxAngVel": 540.0,
+  "defaultMaxAngAccel": 720.0,
+  "maxModuleSpeed": 4.5
+}
